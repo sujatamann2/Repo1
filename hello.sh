@@ -1,3 +1,3 @@
-# !/bin/bash 
+#!/bin/bash 
 
-print "hello word"
+echo "hello word"
